@@ -49,7 +49,7 @@ To get started with the project:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/AbhinavSharma07/Neural-Network-Using-NUMPY.git
+    git clone https://github.com/AbhinavSharma07/Neural-Network-Using_NUMPY.git
     ```
 2. Navigate to the project directory:
     ```bash
