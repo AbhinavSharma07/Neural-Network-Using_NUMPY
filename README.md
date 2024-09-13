@@ -76,6 +76,6 @@ The notebook is designed to guide you through the entire process of building and
 
 - **MNIST Dataset**: The classic dataset for handwritten digit recognition.
 - **Numpy Documentation**: [Numpy Official Documentation](https://numpy.org/doc/).
-- **Neural Networks**: Understanding how neural networks work and their applications..
+- **Neural Networks**: Understanding how neural networks work and their applications.
 
 
