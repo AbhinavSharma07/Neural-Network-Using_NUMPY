@@ -33,7 +33,7 @@ In this project, you will:
 3. **Loss Computation**: Calculate the loss to measure the accuracy of the network.
 4. **Backpropagation**: Compute gradients to optimize the network.
 5. **Parameter Updates**: Adjust the weights and biases to improve model performance.
-6. **Model Training and Predictions**: Train the neural network and make predictions on new data..
+6. **Model Training and Predictions**: Train the neural network and make predictions on new data.
 
 ## Requirements
 
